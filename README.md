@@ -1,7 +1,7 @@
 # cards-coding-challenge
 # Concentration Card Game
 
-As part of your interview process with Circadence, we would like you to complete a sample coding project. You have (5) days to create a single-person card game called *Concentration*. We will schedule an online code-review meeting with you after (5) days so that to discuss and review your code. Here’s how the game is to be played:
+As part of your interview process with Circadence, we would like you to complete a sample coding project. You have (5) days to create a single-person card game called *Concentration*. We will schedule an online code-review meeting with you after (5) days to discuss and review your code. Here’s how the game is to be played:
 
 ### Game Description
 -	When the user clicks the ‘New Game’ button, shuffle the deck of cards, then layout the cards, face down, in 4-rows with 13 cards in each row.
