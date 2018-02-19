@@ -19,5 +19,5 @@ As part of your interview process with Circadence, we would like you to complete
 
 ### Bonus Points
 You will get bonus points for:
-•	creating unit tests for your game.
-•	Using ES6 if developing with React.js
+-	creating unit tests for your game.
+-	Using ES6 if developing with React.js
