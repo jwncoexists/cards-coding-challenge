@@ -14,8 +14,10 @@ As part of your interview process with Circadence, we would like you to complete
 -	React.js [create-react-app](https://github.com/facebook/create-react-app), OR
 -	Angular 2/4 with Typescript [Angular CLI](https://github.com/angular/angular-cli), OR
 -	Javascript
+
 2.	Use APIs on http://deckofcardsapi.com/  for shuffling the deck and selecting cards when laying them out on the board. We realize that you could simulate shuffling the cards and selecting cards without using these apis, but we would like you to demonstrate using asynchronous api calls in your code.
-3.	You can optionally use the graphic files in the assets folder of this repository https://github.com/jwncoexists/cards-coding-challenge/tree/master/assets for displaying the cards
+
+3.	You can optionally use the graphic files in the /assets folder of this repository for displaying the cards
 
 ### Bonus Points
 You will get bonus points for:
